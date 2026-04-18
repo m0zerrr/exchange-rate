@@ -5,7 +5,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="40"/>
 </div>
 
@@ -15,7 +14,7 @@
 - [Описание проекта](#описание-проекта-)
 - [Технологии](#используемые-технологии-️)
 - [Запуск](#запуск-программы-)
-- [Пример выполнения](#пример-вывода)
+- [Пример выполнения](#пример-выполнения-)
 - [Лицензия](#лицензия-)
 
 
@@ -26,6 +25,8 @@
 ---
 
 🧩 ~Блок-схема программы находится в файле [block-scheme.png](https://github.com/m0zerrr/exchange-rate/blob/main/block-scheme.png) ~
+
+🗄️ ~Тестовый файл с датасетом находится в файле [CZK_data.csv](https://github.com/m0zerrr/exchange-rate/blob/main/CZK_data.csv) ~
 
 ---
 
